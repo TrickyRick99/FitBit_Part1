@@ -4,7 +4,7 @@ This app is designed to track the drink consumption of the user. The type of dri
 
 Submitted by: Rickey Prewitt
 
-*=FitBit_Part1 is a health metrics app that allows users to track The type of drink and the number of cups consumed by the user.
+FitBit_Part1 is a health metrics app that allows users to track The type of drink and the number of cups consumed by the user.
 
 Time spent: 14 hours spent in total
 
